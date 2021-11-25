@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+span{
+    color: forestgreen ;
+}
+h1{
+    color: mediumvioletred;
+    font-size: 29px;
+    margin-left: 30%;
+    margin-top: 40px;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background: url(./img/wallpapersden.com_k-beautiful-landscape-digital-art_3840x2160.jpg);
+    background-size: cover;
+}
